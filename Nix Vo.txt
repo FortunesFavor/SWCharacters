@@ -41,6 +41,8 @@ Persona				[5]
 	
 Powers
       
-    	Battle Focus - Nix may make one extra attack in a round for every 5 stamina spent, to a total of her Maximum Stamina
+    	Battle Focus - 
+    	Nix may make one extra attack in a round for every 5 stamina spent, to a total of her Maximum Stamina
 
-	Opportunist - For 5 stamina, Nix may make an attack against the scenery that will provide an advantage, such as shooting out the lights, or firing at a door to seal it before more enemies come in. This is in addition to any other attacks she makes that round
+	Opportunist - 
+	For 5 stamina, Nix may make an attack against the scenery that will provide an advantage, such as shooting out the lights, or firing at a door to seal it before more enemies come in. This is in addition to any other attacks she makes that round
