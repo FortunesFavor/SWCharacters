@@ -22,12 +22,12 @@ Body                    [5]
 
 Reflexes                [5]
     Dodge               [5]
-    Firearms            [5]
+    Firearms            [7]
     Ship Weapons        [5]
     Pilot               [10]
 
 Wits                    [5]
-    Perception          [7]
+    Perception          [5]
     Slicing             [10]
     Gather Information  [10]
 
