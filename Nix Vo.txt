@@ -24,7 +24,7 @@ Body				[5]
 Reflexes			[5]
 	Dodge			[7]
 	Firearms		[10]
-	Ship Weapon		[5]
+	Ship Weapons		[5]
 	Pilot			[5]
 	Parkour			[5]
 
