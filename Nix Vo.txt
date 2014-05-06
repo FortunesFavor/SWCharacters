@@ -19,7 +19,7 @@ Edge 	[2]
   
 Body				[5]
 	Martial Art		[10]
-	Lift/Carry/Hau		[5]
+	Lift/Carry/Haul		[5]
 
 Reflexes			[5]
 	Dodge			[7]
