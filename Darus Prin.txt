@@ -35,7 +35,7 @@ Persona                 [5]
     Bluff               [10]
 
     
-Powers
+Powers/Stunts
     Shape Shift - 
         Out of Combat: You can change your appearance at will (Cannot change mass)
         In Combat: Spending 5 stamina allws you to change form
