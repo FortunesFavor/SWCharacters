@@ -30,7 +30,7 @@ Reflexes			[5]
 
 Wits				[5]
 	Perception		[5]
-	Huttes			[5]
+	Gather Information	[5]
 	Streetwise		[5]
 
 Persona				[5]
