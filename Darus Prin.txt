@@ -7,15 +7,15 @@ Conviction Aspect          - "I like my head exactly where it is, thank you"
 Disadvantage Aspect        - Mixing business and pleasure
 Exceptional Skill Aspect   - "Do you want to fly into a star or bounce off a supernova?"
 Foe Aspect                 - Empire
-Gear Aspect                - Model Q4 hold-out blaster pistol
+Gear Aspect                - Illegally Modified Versafunction99 Datapad
 Help Aspect                - Informants
 Inferior Skill Aspect      - "Yes, I would indeed like to buy some deathsticks"
 
 
-Level       [1]
+Level       [2]
 Health      [Healthy] [Injured] [Wounded] [Incapacitated]
-Stamina     [20]
-Edge        [1]
+Stamina     [40]
+Edge        [2]
 
 Body                    [5]
     Lift/Carry/Haul     [5]
@@ -27,7 +27,7 @@ Reflexes                [5]
     Pilot               [10]
 
 Wits                    [5]
-    Perception          [5]
+    Perception          [7]
     Slicing             [10]
     Gather Information  [10]
 
