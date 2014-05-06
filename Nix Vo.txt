@@ -1,0 +1,46 @@
+Iranixa Vokele (Nixa 'Nix' Vo)
+
+High Concept 			        - Bounty Hunter
+Ambition Aspect		        - Fame, Glory, and a sweet ride
+Background Aspect		      - Orbital Pleasure Resort 'Paradise Grove'
+Conviction Aspect		      - Nothing is worth losing your Humility
+Disadvantage Aspect       - I have needs
+Exceptional Skill Aspect	- Right between the eyes
+Foe Aspect			          - Ten hounds, one fox
+Gear Aspect			          - The Fortune's Favor
+Help Aspect			          - The Huntmaster owes me
+Inferior Skill Aspect     - Well, I'm convinced.
+
+
+Level 				[2]
+Health 				[Armored] [Healthy] [Injured] [Wounded] [Incapacitated]
+Stamina  			[40]
+Edge 			  	[2]
+  
+Body			                [5]
+	Martial Arts            [10]
+	Lift/Carry/Haul         [5]
+
+Reflexes		              [5]
+	Dodge			              [7]
+	Firearms 		            [10]
+	Ship Weapons            [5]
+	Pilot                   [5]
+	Parkour			            [5]
+
+Wits			                [5]
+	Perception		          [5]
+	Huttese 		            [5]
+	Streetwise		          [5]
+
+Persona	                  [5]
+	Bluff			              [5]
+	Feign			              [5]
+	Disguise		            [5]
+	Hiding			            [5]
+	
+Powers
+      
+    Battle Focus - Nix may make one extra attack in a round for every 5 stamina spent, to a total of her Maximum Stamina
+
+	  Opportunist - For 5 stamina, Nix may make an attack against the scenery that will provide an advantage, such as shooting out the lights, or firing at a door to seal it before more enemies come in. This is in addition to any other attacks she makes that round
