@@ -36,4 +36,9 @@ Persona                 [5]
 
     
 Powers
-   Shape Shift - Darus may change his/her form for 5 stamina spent, to a total of his/her Maximum Stamina
+    Shape Shift - 
+        Out of Combat: You can change your appearance at will (Cannot change mass)
+        In Combat: Spending 5 stamina allws you to change form
+    Smuggler's Luck - 
+        Out of Combat: Certain things just go your way, when they really shouldn't.
+        In Combat: Spending 5 stamina allows you to reroll a failed roll
