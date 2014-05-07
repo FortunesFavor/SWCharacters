@@ -15,26 +15,26 @@ Inferior Skill Aspect
 Level 	[2]
 Health 	[Healthy] [Injured] [Wounded] [Incapacitated]
 Stamina [40]
-Edge 	  [2]
+Edge 	[2]
   
-Body                    [5]
-	Martial Art		        [10]
-	Lift/Carry/Haul		    [5]
+Body            		[5]
+	Martial Art		[10]
+	Lift/Carry/Haul		[5]
 
-Reflexes			          [5]
-	Dodge			            [5]
-	Lightsabers	          [10]
-	Saber Deflect         [10]
-	Parkour			          [10]
+Reflexes			[5]
+	Dodge			[5]
+	Lightsabers	        [10]
+	Saber Deflect		[10]
+	Parkour			[10]
 
-Wits				            [5]
-	Perception		        [5]
-	Force Lore            [10]
+Wits				[5]
+	Perception		[5]
+	Force Lore              [10]
 
-Persona				          [5]
-	Bluff			            [5]
-	Feign			            [5]
-	Hiding			          [5]
+Persona				[5]
+	Bluff			[5]
+	Feign			[5]
+	Hiding			[5]
 	
 Powers
       
