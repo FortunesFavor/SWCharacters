@@ -16,32 +16,29 @@ Health      [Healthy] [Injured] [Wounded] [Incapacitated]
 Stamina     [20]
 Edge        [1]
  
-Body			           [5]
-     Contortionist               [5]
+Body			       [5]
+     Contortionist              [5]
 
- Reflexes		           [5]
-	Graceful                   [10]
-	Dodging                    [10]
+ Reflexes		       [5]
+	Graceful                [10]
+	Dodging                 [10]
 	
+ Wits			       [5]
+     Perception                 [5]
+     Engineering                [10]
+     Resourceful                [5]
+     Lock Slicing               [5]
 
- Wits			           [5]
-     Perception                  [5]
-     Engineering                 [10]
-     Resourceful                 [5]
-     Lock Slicing                [5]
-
-Persona	                          [5]
-	Smooth Talker               [5]
-	Charm                       [10]
-	Dance                       [5]
-	Sense Motive                [5]
-	Noble Etiquette             [5]
+Persona	                       [5]
+	Smooth Talker           [5]
+	Charm                   [10]
+	Dance                   [5]
+	Sense Motive            [5]
+	Noble Etiquette         [5]
 	 
 
 Powers
 
 Technometry - 
-
 Out of Combat: Able to sense the inner workings of machines, and even perform simple 'mind-tricks' on Droids. It also allows remote activation of switches and levers and similar
-
 In Combat: Able to stun droids, or disable devices and weapons for 1 round for every 5 stamina spent
