@@ -1,15 +1,15 @@
 Jira Marr
 
 High Concept 			- Fallen Luka Sene
-Ambition Aspect		        
-Background Aspect	 
-Conviction Aspect		 
-Disadvantage Aspect        
-Exceptional Skill Aspect	 
-Foe Aspect			 
-Gear Aspect			 
-Help Aspect			 
-Inferior Skill Aspect     	 
+Ambition Aspect		        - They will see the truth
+Background Aspect	 	- Trained in the Luka Sene arts
+Conviction Aspect		- Trust in the Force
+Disadvantage Aspect        	- Blind from birth
+Exceptional Skill Aspect	- The Unseen Hand
+Foe Aspect			- The Sene Seekers
+Gear Aspect			- Lightspear
+Help Aspect			- The Shaman of Whills
+Inferior Skill Aspect     	- Pacifist
 
 
 Level 	[2]
