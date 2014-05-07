@@ -1,0 +1,45 @@
+Jira Marr
+
+High Concept 			- Fallen Luka Sene
+Ambition Aspect		        
+Background Aspect	 
+Conviction Aspect		 
+Disadvantage Aspect        
+Exceptional Skill Aspect	 
+Foe Aspect			 
+Gear Aspect			 
+Help Aspect			 
+Inferior Skill Aspect     	 
+
+
+Level 	[2]
+Health 	[Healthy] [Injured] [Wounded] [Incapacitated]
+Stamina [40]
+Edge 	  [2]
+  
+Body                    [5]
+	Martial Art		        [10]
+	Lift/Carry/Haul		    [5]
+
+Reflexes			          [5]
+	Dodge			            [5]
+	Lightsabers	          [10]
+	Saber Deflect         [10]
+	Parkour			          [10]
+
+Wits				            [5]
+	Perception		        [5]
+	Force Lore            [10]
+
+Persona				          [5]
+	Bluff			            [5]
+	Feign			            [5]
+	Hiding			          [5]
+	
+Powers
+      
+    	 Force Pull/Push - 
+For 10 stamina, Jira can use Force Push or Pull to manipulate an object or person up to 200 pounds. As an attack, this deals one rank of damage ignoring armor, if the enemy strikes something when thrown or pulled
+
+       Force Speed - 
+For 5 Stamina, Jira may make one extra attack, to a maximum of her total stamina
