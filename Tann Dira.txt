@@ -11,10 +11,10 @@ Help Aspect                - Ventik Orono (Old Man)
 Inferior Skill Aspect      - Physically Feeble
  
  
-Level       [1]
+Level       [2]
 Health      [Healthy] [Injured] [Wounded] [Incapacitated]
-Stamina     [20]
-Edge        [1]
+Stamina     [40]
+Edge        [2]
  
 Body			       [5]
      Contortionist              [5]
@@ -24,7 +24,7 @@ Body			       [5]
 	Dodging                 [10]
 	
  Wits			       [5]
-     Perception                 [5]
+     Perception                 [7]
      Engineering                [10]
      Resourceful                [5]
      Lock Slicing               [5]
@@ -42,3 +42,4 @@ Powers
 Technometry - 
 Out of Combat: Able to sense the inner workings of machines, and even perform simple 'mind-tricks' on Droids. It also allows remote activation of switches and levers and similar
 In Combat: Able to stun droids, or disable devices and weapons for 1 round for every 5 stamina spent
+
