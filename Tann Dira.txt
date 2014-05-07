@@ -43,3 +43,6 @@ Technometry -
 Out of Combat: Able to sense the inner workings of machines, and even perform simple 'mind-tricks' on Droids. It also allows remote activation of switches and levers and similar
 In Combat: Able to stun droids, or disable devices and weapons for 1 round for every 5 stamina spent
 
+Telekenesis - 
+Out of Combat: Able to lift, pull, push, and move around up to 200Lbs
+In Combat: Spending 10 stamina allows you to lift, pull, push, and move around up to 200Lbs, as an attack it deals one shift of damage ignoring armor
