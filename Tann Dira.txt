@@ -17,17 +17,17 @@ Stamina     [40]
 Edge        [2]
  
 Body			       [5]
-     Contortionist              [5]
+	Contortionist           [5]
 
  Reflexes		       [5]
 	Graceful                [10]
 	Dodging                 [10]
 	
  Wits			       [5]
-     Perception                 [7]
-     Engineering                [10]
-     Resourceful                [5]
-     Lock Slicing               [5]
+	Perception              [7]
+	Engineering             [10]
+	Resourceful             [5]
+	Lock Slicing            [5]
 
 Persona	                       [5]
 	Smooth Talker           [5]
