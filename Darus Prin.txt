@@ -1,44 +1,56 @@
 Darus Prin
 
-High Concept               - Clawdite Smuggler
-Ambition Aspect            - Greener Pastures
-Background Aspect          - Hutt's Back yard
-Conviction Aspect          - "I like my head exactly where it is, thank you"
-Disadvantage Aspect        - Mixing business and pleasure
-Exceptional Skill Aspect   - "Do you want to fly into a star or bounce off a supernova?"
-Foe Aspect                 - Empire
-Gear Aspect                - Illegally Modified Versafunction99 Datapad
-Help Aspect                - Informants
-Inferior Skill Aspect      - "Yes, I would indeed like to buy some deathsticks"
+High Concept              - Clawdite Smuggler
+Ambition Aspect           - Greener Pastures
+Background Aspect         - Hutt's Back yard
+Conviction Aspect         - "I like my head exactly where it is, thank you"
+Disadvantage Aspect       - Mixing business and pleasure
+Exceptional Skill Aspect  - "Do you want to fly into a star or bounce off a
+                            supernova?"
+Foe Aspect                - Empire
+Gear Aspect               - Illegally Modified Versafunction99 Datapad
+Help Aspect               - Informants
+Inferior Skill Aspect     - "Yes, I would indeed like to buy some deathsticks"
 
 
-Level       [2]
-Health      [Healthy] [Injured] [Wounded] [Incapacitated]
-Stamina     [40]
-Edge        [2]
+Level      [2]
+Stamina    [40]
+Edge       [2]
 
-Body                    [5]
-    Lift/Carry/Haul     [5]
+Health
+    [Healthy]
+    [Injured]
+    [Wounded]
+    [Incapacitated]
 
-Reflexes                [5]
-    Dodge               [5]
-    Firearms            [7]
-    Ship Weapons        [5]
-    Pilot               [10]
 
-Wits                    [5]
-    Perception          [5]
-    Slicing             [10]
-    Gather Information  [10]
+Body                        [5]
+    Lift/Carry/Haul         [5]
 
-Persona                 [5]
-    Bluff               [10]
+Reflexes                    [5]
+    Pilot                   [10]
+    Ship Weapons            [5]
+    Firearms                [7]
+    Dodge                   [5]
 
-    
-Powers/Stunts
-    Shape Shift - 
-        Out of Combat: You can change your appearance at will (Cannot change mass)
-        In Combat: Spending 5 stamina allws you to change form
-    Smuggler's Luck - 
-        Out of Combat: Certain things just go your way, when they really shouldn't.
+Wits                        [5]
+    Gather Information      [10]
+    Slicing                 [10]
+    Perception              [5]
+
+Persona                     [5]
+    Bluff                   [10]
+
+
+Stunts/Powers
+    Smuggler's Luck
+        Out of Combat: Certain things just go your way, when they really
+        shouldn't.
+
         In Combat: Spending 5 stamina allows you to reroll a failed roll
+
+    Shape Shift
+        Out of Combat: You can change your appearance at will (Cannot change
+        mass)
+
+        In Combat: Spending 5 stamina allws you to change form
