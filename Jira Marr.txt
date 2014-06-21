@@ -12,9 +12,9 @@ Help Aspect			- The Shaman of Whills
 Inferior Skill Aspect     	- Pacifist
 
 
-Level 	[2]
+Level 	[3]
 Health 	[Healthy] [Injured] [Wounded] [Incapacitated]
-Stamina [40]
+Stamina [60]
 Edge 	[2]
   
 Body            		[5]
