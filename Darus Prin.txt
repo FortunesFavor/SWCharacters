@@ -30,7 +30,7 @@ Body                        [5]
 Reflexes                    [5]
     Pilot                   [10]
     Ship Weapons            [5]
-    Firearms                [9]
+    Firearms                [9] [11 w/current blaster]
     Dodge                   [5]
 
 Wits                        [5]
