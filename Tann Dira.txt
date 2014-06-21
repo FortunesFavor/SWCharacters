@@ -6,25 +6,25 @@ Conviction Aspect          - Nothing to lose
 Disadvantage Aspect        - Small
 Exceptional Skill Aspect   - *Whack* "There, I fixed it."
 Foe Aspect                 - Slavers
-Gear Aspect                - A fallen Jedi's lightsaber
+Gear Aspect                - Purple Dual Lightsaber
 Help Aspect                - Ventik Orono (Old Man)
 Inferior Skill Aspect      - Physically Feeble
  
  
-Level       [2]
+Level       [3]
 Health      [Healthy] [Injured] [Wounded] [Incapacitated]
-Stamina     [40]
-Edge        [2]
+Stamina     [60]
+Edge        [3]
  
 Body			       [5]
-	Contortionist           [5]
+	Contortionist           [6]
 
  Reflexes		       [5]
 	Graceful                [10]
 	Dodging                 [10]
 	
  Wits			       [5]
-	Perception              [7]
+	Perception              [8]
 	Engineering             [10]
 	Resourceful             [5]
 	Lock Slicing            [5]
@@ -46,3 +46,6 @@ In Combat: Able to stun droids, or disable devices and weapons for 1 round for e
 Telekenesis - 
 Out of Combat: Able to lift, pull, push, and move around up to 200Lbs
 In Combat: Spending 10 stamina allows you to lift, pull, push, and move around up to 200Lbs, as an attack it deals one shift of damage ignoring armor
+
+Lightsaber Deflect -
+In Combat: Spend 10 stamina to deflect a bolt and gain an attack roll to use the deflected bolt as a weapon.
