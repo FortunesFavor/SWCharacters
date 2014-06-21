@@ -12,17 +12,17 @@ Help Aspect			- The Huntmaster owes me
 Inferior Skill Aspect     	- Well, I'm convinced.
 
 
-Level 	[2]
+Level 	[3]
 Health 	[Armored] [Healthy] [Injured] [Wounded] [Incapacitated]
-Stamina [40]
-Edge 	[2]
+Stamina [60]
+Edge 	[3]
   
 Body				[5]
 	Martial Art		[10]
 	Lift/Carry/Haul		[5]
 
 Reflexes			[5]
-	Dodge			[7]
+	Dodge			[9]
 	Firearms		[10]
 	Ship Weapons		[5]
 	Pilot			[5]
@@ -46,3 +46,6 @@ Powers
 
 	Opportunist - 
 	For 5 stamina, Nix may make an attack against the scenery that will provide an advantage, such as shooting out the lights, or firing at a door to seal it before more enemies come in. This is in addition to any other attacks she makes that round
+
+	Jetpack - 
+	For 10 stamina per turn, Nix can deploy her jetpack, making her impossible to hit via melee, and giving a -2 penalty to anyone trying to shoot her. She takes no penalty for firing while in the air
