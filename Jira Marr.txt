@@ -22,6 +22,7 @@ Body            		[5]
 	Lift/Carry/Haul		[5]
 
 Reflexes			[5]
+	Firearms		[2]
 	Dodge			[5]
 	Lightsabers	        [10]
 	Saber Deflect		[10]
