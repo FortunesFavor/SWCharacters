@@ -9,21 +9,25 @@ aspect_conviction: '"I like my head exactly where it is, thank you"'
 aspect_disadvantage: Mixing business and pleasure
 aspect_exceptional_skill: '"Do you want to fly into a star or bounce off a supernova?"'
 aspect_foe: Empire
-aspect_gear: Illegally Modified Versafunction99 Datapad
+aspect_gear: Lady Luck
 aspect_help: Informants
 aspect_inferior_skill: '"Yes, I would indeed like to buy some deathsticks"'
 concept: Clawdite Smuggler
-level: 2
+level: 3
 name: Darus Prin
 skill|Body|Lift/Carry/Haul: 5
 skill|Persona|Bluff: 10
 skill|Reflexes|Dodge: 5
-skill|Reflexes|Firearms: 7
+skill|Reflexes|Firearms: 9
 skill|Reflexes|Pilot: 10
 skill|Reflexes|Ship Weapons: 5
 skill|Wits|Gather Information: 10
 skill|Wits|Perception: 5
 skill|Wits|Slicing: 10
+stunt|Assume Form: 'Out of Combat: You can spawn various biologically functional features
+  with great pain and effort
+
+  In Combat: Stamina cost varies, same effect as out of combat.'
 stunt|Shape Shift: 'Out of Combat: You can change your appearance at will (Cannot
   change mass)
 

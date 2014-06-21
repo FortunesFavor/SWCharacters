@@ -8,14 +8,14 @@ Disadvantage Aspect       - Mixing business and pleasure
 Exceptional Skill Aspect  - "Do you want to fly into a star or bounce off a
                             supernova?"
 Foe Aspect                - Empire
-Gear Aspect               - Illegally Modified Versafunction99 Datapad
+Gear Aspect               - Lady Luck
 Help Aspect               - Informants
 Inferior Skill Aspect     - "Yes, I would indeed like to buy some deathsticks"
 
 
-Level      [2]
-Stamina    [40]
-Edge       [2]
+Level      [3]
+Stamina    [60]
+Edge       [3]
 
 Health
     [Healthy]
@@ -30,7 +30,7 @@ Body                        [5]
 Reflexes                    [5]
     Pilot                   [10]
     Ship Weapons            [5]
-    Firearms                [7]
+    Firearms                [9]
     Dodge                   [5]
 
 Wits                        [5]
@@ -54,3 +54,9 @@ Stunts/Powers
         mass)
 
         In Combat: Spending 5 stamina allws you to change form
+
+    Assume Form
+        Out of Combat: You can spawn various biologically functional features
+        with great pain and effort
+
+        In Combat: Stamina cost varies, same effect as out of combat.
