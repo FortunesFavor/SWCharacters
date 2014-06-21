@@ -15,7 +15,7 @@ Inferior Skill Aspect     	- Pacifist
 Level 	[3]
 Health 	[Healthy] [Injured] [Wounded] [Incapacitated]
 Stamina [60]
-Edge 	[2]
+Edge 	[3]
   
 Body            		[5]
 	Martial Art		[10]
