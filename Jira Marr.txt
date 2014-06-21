@@ -43,3 +43,6 @@ For 10 stamina, Jira can use Force Push or Pull to manipulate an object or perso
 
        Force Speed - 
 For 5 Stamina, Jira may make one extra attack, to a maximum of her total stamina
+
+	Lightsaber Deflect -
+In Combat: Spend 10 stamina to deflect a bolt and gain an attack roll to use the deflected bolt as a weapon.
