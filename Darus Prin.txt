@@ -60,3 +60,8 @@ Stunts/Powers
         with great pain and effort
 
         In Combat: Stamina cost varies, same effect as out of combat.
+
+Gear:
+    DE-8 Blaster Pistol
+        Skill: Firearms +2
+        Aspect: Illegal
