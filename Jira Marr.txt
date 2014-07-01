@@ -1,4 +1,5 @@
 Jira Marr
+GMPC
 
 High Concept 			- Fallen Luka Sene
 Ambition Aspect		        - They will see the truth
